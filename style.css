@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Anta';
+    src:url(/fonts/Anta/Anta-Regular.ttf); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+div {
+    color: white;
+    background: red;
+    text-align:center;
+    font-family:'Anta', sans-serif;
+    font-weight: normal;
+    
+    
+
+}
+
+p {
+    color: white;
+    background:green;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+button {
+    font-family: "Anta", sans-serif;
+    font-weight: normal;
+   
+    color: black;
+    background:orange;
+    
+}
